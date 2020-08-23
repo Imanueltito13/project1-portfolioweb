@@ -259,7 +259,7 @@ button:active{
 	background-color: #FFFFFF;
 	border: none;
 	outline: none;
-	radius :5px;
+	radius : 5px;
 
 }
 .contact-me{
@@ -348,7 +348,7 @@ display: flex;
 .social-icons a:hover i,
 .a-social-b a:hover i{
 	color: #FFFFFF;
-	transition: all ease 0.5s;
+	transition: all ease 0.5s;	
 }
 .a-social-b {
 	position: fixed;
